@@ -1,0 +1,31 @@
+div {
+    height: 200px;
+    width: 200px;
+}
+
+#azul {
+    background-color: blue;
+}
+
+#rojo{
+    background-color: red;
+}
+
+#amarillo {
+    background-color: yellow;
+}
+
+#verde {
+    background-color: green;
+}
+
+body {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+}
+
+#key {
+    border:1px solid black; 
+}
+
